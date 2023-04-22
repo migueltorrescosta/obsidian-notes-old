@@ -1,24 +1,25 @@
-#how-to #productivity 
-Never add any code without an Issue & PR
+---
+tags: checklist, productivity
+---
 
-#### We want to move so fast that we end up being slower than needed
+Never add any code without an Issue & PR: *"We want to move so fast that we end up being slower than needed"*
 
-# Issues
-## Creating an Issue
+# Creating an Issue
 1. Add points to all issues
 
 ### Issue Template
 ```markdown
-Description goes here. Usually the more information, the better, but that doesn't mean long descriptions. Conciseness, links, etc. helps you provide a lot of information without needing to write a lot.
+Description goes here.
+Usually the more information, the better, but that doesn't mean long descriptions.
+Conciseness, links, etc. helps you provide a lot of information without needing to write a lot.
 
 # Acceptance criteria
 - [ ] criteria1
 - [ ] criteria2
 ```
 
-# PRs
-## Opening a PR
-- No special characters, only alphanumeric and `_` and `-`
+# Opening a PR
+- No special characters, only alphanumeric , `_` and `-`
 - Limit to 50 chars
 - Follow the [Seven Rules](https://cbea.ms/git-commit/#seven-rules) which talk about "subject"
 
@@ -38,10 +39,13 @@ Notably,
 # Miscellaneous
 Anything you included in the PR unrelated to the problem and solution (usually very small stuff not worthy of its own PR, this section is generally missing)
 ```
-## Writing the code
+
+# Writing the code
 > Less code is better code
 - [ ] Do we have similar code elsewhere that we should use?
 - [ ] Does this code require new tests?
+- [ ] Is the code clear to someone who has never seen it?
+- [ ] Follow the [[Testing Software]] guidelines
 
 ## Preparing for PR Review
 
@@ -54,6 +58,7 @@ Anything you included in the PR unrelated to the problem and solution (usually v
 - [ ] No unexpected `File changes` exist, after doing all of the above
 
 ## PR Review
+- [ ] I start a review as a group, rather than a list of individual comments
 - [ ] I understand the motivation for the code changes
 - [ ] I am confident the new changes were tested
 - [ ] The code changes are consistent with the rest of our code

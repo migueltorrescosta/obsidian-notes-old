@@ -60,14 +60,13 @@
 3. Swimming Shorts
 4. Sunscreen
 
-## Formal
-1. Suit
-	1. Jacket
-	2. Shirt
-	3. Trousers
-	4. Belt
-	5. White / Black / "Normal" tie
-	6. Shoes
+## Formal Suit
+1. Jacket
+2. Shirt
+3. Trousers
+4. Belt
+5. White / Black / "Normal" tie
+6. Shoes
 
 # Camping
 1. Sleeping Bag

@@ -1,11 +1,15 @@
-#coding #personal-productivity 
+---
+tags: coding, productivity
+---
+
+Description of how this Obsidian Blog / Note taker solution was built
 
 # Links
 
 ## Obsidian / Jekyll Templates
 - [Jekyll Garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io)
 	- Pretty but graphless
-	- Contains a search bar :D
+	- Contains an amazing search bar
 	- [Preview template](https://hiran.in/)
 - [Digital Garden Setup](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
 	- Simple layout.
@@ -20,10 +24,11 @@
 - [x]  Copy the Jekyll Garden setup into a personal repo
 - [x]  Setup dependabot / renovate ( use all latest versions )
 - [ ] Setup Broken Link checker
-- [ ] Add this Obsidian Notes into it
-	- [ ] Add Non-Public notes to gitignore!
+- [x] Add this Obsidian Notes into it
+	- [x] Add Non-Public notes to gitignore!
 - [ ] Locally
 	- [ ] Write a script to add the appropriate YAML front matter to the Public posts
+	- [ ] Ensure Maths renders correctly
 	- [ ] Test bundle exec [[Jekyll]] build until you're happy with it.
 	- [ ] Maybe: Write a script to generate the `notes_graph.json` file needed for rendering the local graph.
 - [ ] Check

@@ -1,4 +1,8 @@
-#math #internship 
+---
+tags: math
+title: Applying Machine Learning to Fraud Detection @ Farfetch
+---
+
 **Supervisor: Cristina Cerqueira**
 
 When I first joined [[Applying Machine Learning to Fraud Detection @ Farfetch]] I was told they were looking for someone to implement [[Machine Learning]] algorithms to help predict possible fraud attempts. These fraud attempts can consist of something as simple as using someone else's credit card to make purchases to more convoluted methods which I am not aware of.

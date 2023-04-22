@@ -1,4 +1,6 @@
-#coding #productivity 
+---
+tags: coding, productivity
+---
 
 Badges on a repo's README.md allow us to get a quick overview of the project at a glance
 

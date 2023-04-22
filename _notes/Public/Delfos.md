@@ -1,4 +1,8 @@
-#math
+---
+feed: show
+tags: maths
+---
+
 This was my last Olympiad. I first heard about [Delfos](http://www.uc.pt/fctuc/dmat/delfos) when I was 14. I got to a [[Maths National Olympiad]] final and was told about this Maths Weekend school. Boring, I thought, so I didn't join. 2 years later I happened to meet someone who went to [[Delfos]] and convinced me to try it (Thank you Catarina!). So I went. Expectations were low, but it was worth the shot (I already did maths in my spare time, but the idea of spending my weekends sitting in a classroom didn't seem too appealing. I believe most of you will relate). How wrong was I.
 
 There were a few teachers who guided us a great deal (a special thanks to professor [[Kovacec]] who always went the extra mile for all of us), but the mutual learning was what amazed me. Yes, there were lectures, but we could just sit in the back doing something else or walk outside if, for any reason, we weren't feeling productive (or if we just didn't feel like it). But there I was, surrounded by people who were motivated to learn maths out of their own will, for fun. People who enjoyed the tricks and details observed in proving tricky problems, and were there for the challenge and the beauty of these proofs. We challenged each other with increasingly harder problems, and we improved ourselves.
