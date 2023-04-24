@@ -4,7 +4,7 @@ tags: checklist, productivity
 
 Never add any code without an Issue & PR: *"We want to move so fast that we end up being slower than needed"*
 
-# Creating an Issue
+# Submitting an Issue
 1. Add points to all issues
 
 ### Issue Template
@@ -18,7 +18,7 @@ Conciseness, links, etc. helps you provide a lot of information without needing 
 - [ ] criteria2
 ```
 
-# Opening a PR
+# Submitting a PR
 - No special characters, only alphanumeric , `_` and `-`
 - Limit to 50 chars
 - Follow the [Seven Rules](https://cbea.ms/git-commit/#seven-rules) which talk about "subject"
