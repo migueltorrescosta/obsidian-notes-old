@@ -1,4 +1,4 @@
-I found this lying around [Reddit](https://www.reddit.com/r/WritingPrompts/comments/5kxe94/wp_you_live_in_a_world_where_each_lie_creates_a/) and really enjoyed it.
+I found this lying around [Reddit](https://www.reddit.com/r/WritingPrompts/comments/5kxe94/wp_you_live_in_a_world_where_each_lie_creates_a/) and it became one of my favorite [[Short Stories]].
 
 This story happens in a world where each lie creates a scar on the liar's body. The bigger the lie, the deeper and larger the mark. One day, you meet someone that only has one scar; it is the biggest one you have ever seen.
 
