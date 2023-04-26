@@ -109,3 +109,33 @@ Point of Contant: Lennard Gropengiesser
 	- Design ( Figma )
 
 ### Contact
+
+
+# ChatGPT
+
+From [this](https://chat.openai.com/c/e6751526-8731-45f7-95c6-83b37a0dea8f) conversation:
+
+```
+Here are the steps you can follow to build an Android app with a Kotlin backend server and authentication:
+
+1.  Set up Android Studio: Android Studio is the official IDE for Android development. You can download it from the official Android website.
+    
+2.  Choose a backend server framework: Ktor is a popular backend server framework for Kotlin. It is lightweight and easy to use, and it provides built-in support for features like routing, authentication, and templating.
+    
+3.  Set up your backend server: You can deploy your Ktor backend server to a cloud hosting service like Heroku or DigitalOcean. Alternatively, you can host your server on your own infrastructure.
+    
+4.  Implement authentication: You can use a library like Auth0 or Firebase Authentication to implement authentication in your backend server. Both libraries provide easy-to-use APIs for integrating authentication into your application.
+    
+5.  Define your API endpoints: Define the API endpoints that your Android app will use to interact with your backend server. Use RESTful APIs to ensure that your API is easy to use and maintain.
+    
+6.  Implement data storage: You can use a database like PostgreSQL or MongoDB to store your user data. Use a library like Exposed or KMongo to interact with your database from your Ktor backend server.
+    
+7.  Integrate your backend with your Android app: Use a library like Retrofit or Volley to make API calls from your Android app to your backend server.
+    
+8.  Implement authentication in your Android app: You can use a library like Firebase Authentication or Okta to implement authentication in your Android app. Both libraries provide easy-to-use APIs for integrating authentication into your application.
+    
+9.  Test and deploy: Test your application thoroughly to ensure that it is stable and performs well. Deploy your application to the Google Play Store or an alternative app store.
+    
+
+By following these steps, you can build a secure and scalable Android app with a Kotlin backend server and authentication.
+```
