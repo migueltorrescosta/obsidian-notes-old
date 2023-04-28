@@ -22,6 +22,7 @@ Conciseness, links, etc. helps you provide a lot of information without needing 
 - No special characters, only alphanumeric , `_` and `-`
 - Limit to 50 chars
 - Follow the [Seven Rules](https://cbea.ms/git-commit/#seven-rules) which talk about "subject"
+- Most people reading the PR don't have the context you have: not only should you explain what you changed, but also how and why
 
 ### PR Template
 ```markdown
