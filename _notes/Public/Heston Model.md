@@ -1,4 +1,6 @@
-#math 
+---
+tags: math
+---
 
 Stochastic Volatility Model for a Stock Price. See [[Stochastic Calculus]]
 

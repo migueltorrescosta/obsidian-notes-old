@@ -1,3 +1,7 @@
+---
+tags: coding
+---
+
 A tool to show work done via Jupyter Notebooks
 
 # Sources

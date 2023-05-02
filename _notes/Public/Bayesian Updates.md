@@ -1,5 +1,4 @@
 ---
-feed: show
 tags: math
 ---
 

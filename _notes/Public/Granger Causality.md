@@ -1,4 +1,6 @@
-#math #statistics 
+---
+tags: math, statistics
+---
 
 # Links
 - [WIkipedia page](https://en.wikipedia.org/wiki/Granger_causality)

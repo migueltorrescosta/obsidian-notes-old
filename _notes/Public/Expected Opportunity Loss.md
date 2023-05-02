@@ -1,3 +1,7 @@
+---
+tags: math
+---
+
 [[Expected Opportunity Loss]] is a simple yet powerful way for [[Pricing Information]], first introduced to me in [[Douglas Hubbard]]’s book [[How To Measure Anything]].
 
 The concept is simple: In many situations we have to make decisions under uncertainty, and as such after the fact we will discover that we could have made a better choice, that is, we missed an opportunity. By quantifying the likelihood of uncertain events, we can understand how much we expect to miss out and either make better decisions based on this value, or gather more information.

@@ -1,3 +1,10 @@
+---
+tags: society
+---
+
+I try to aggregate here experiences that I want to have at some point. If you too want to do one of these, let's do them together
+
+
 # Outdoors
 - [[SkyDiving]]
 - [[OtherWorld]] ( [homepage](https://www.other.world/) )
@@ -9,6 +16,7 @@
 
 # Books
 - [[Getting Things Done]]
+- Fall of Giants, recommended by Raul
 
 # TV
 - Chris Rock's [[Bigger and Blacker]]

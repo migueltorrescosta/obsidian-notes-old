@@ -1,6 +1,5 @@
 ---
 tags: math
-title: Applying Machine Learning to Fraud Detection @ Farfetch
 ---
 
 **Supervisor: Cristina Cerqueira**

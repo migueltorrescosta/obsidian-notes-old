@@ -1,4 +1,7 @@
-#short-story #society 
+---
+tags: short-story, sociery
+---
+
 Excerpt found on the web
 
 > Years ago, anthropologist Margaret Mead was asked by a student what she considered to be the first sign of civilization in a culture. The student expected Mead to talk about fishhooks or clay pots or grinding stones

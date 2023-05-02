@@ -1,4 +1,6 @@
-#health 
+---
+tags: health
+---
 
 # Priorities
 1. Good bed, healthy food
@@ -18,3 +20,13 @@
 
 # When ill
 See [[Medicine]]
+
+#health 
+# Links
+- [NHS Guidance](https://www.nhs.uk/live-well/eat-well/) 
+
+
+# Fit but unequal
+[[Infographic]] on fitness differences between pro-athletes
+
+![[Image Fit but Equal.png]]

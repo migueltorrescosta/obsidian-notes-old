@@ -1,3 +1,8 @@
+---
+tags: math, startup
+feed: show
+---
+
 Starting from the [[Starting a New App]] template
 
 # Next Steps

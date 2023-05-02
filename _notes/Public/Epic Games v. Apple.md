@@ -1,4 +1,6 @@
-#law
+---
+tags: law
+---
 
 Lawsuit related to Apple's restrictions on the iOS App Store regarding in-app purchases. In particular, Apple's 30% revenue cut.
 

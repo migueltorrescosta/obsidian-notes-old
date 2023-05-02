@@ -1,3 +1,7 @@
+---
+tags: math
+---
+
 # Links
 - [Wikipedia page](https://en.wikipedia.org/wiki/Filtration_(probability_theory))
 

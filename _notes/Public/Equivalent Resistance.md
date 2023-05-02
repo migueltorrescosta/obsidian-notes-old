@@ -1,4 +1,6 @@
-#physics
+---
+tags: physics
+---
 
 The resistance value observed if we replace a circuit of resistances with a single resistance
 

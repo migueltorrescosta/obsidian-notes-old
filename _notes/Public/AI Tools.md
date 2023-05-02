@@ -1,6 +1,5 @@
 ---
 tags: math
-title: AI Tools
 ---
 An useful overview of AI tools in various fields
 

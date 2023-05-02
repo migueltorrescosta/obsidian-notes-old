@@ -1,6 +1,4 @@
 ---
-feed: show
-title: Beta Distribution
 tags: math
 ---
 

@@ -1,4 +1,6 @@
-#math #graph-theory
+---
+tags: math, graph-theory
+---
 
 Most models that convert a graph into a 2D map of points use force based systems to find a layout. This works wonderfully however there are some odd situations created by local minima: planar graphs don't become planar due to the original 
 

@@ -1,4 +1,6 @@
-#book 
+---
+tags: book
+---
 
 Methodology for increasing productivity
 

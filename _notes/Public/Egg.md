@@ -1,3 +1,7 @@
+---
+tags: society
+---
+
 This story told regards a man who dies and finds himself in the afterlife with a divine entity. It is one of my favorite [[Short Stories]]. Originally posted [here](www.galactanet.com/oneoff/theegg_mod.html).
 
 > You were on your way home when you died.

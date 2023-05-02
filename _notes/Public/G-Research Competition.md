@@ -1,4 +1,6 @@
-#math #coding #competition
+---
+tags: math, coding
+---
 
 Today ( 24th October 2015 ) Aiken, Matt and myself went for a [[High-Frequency Trading]] competition. It was sponsored by [[G-Research]]. These competitions are a fairly efficient way of hiring the best employees and getting visibility in the market. Plus, it was a fun day.
 

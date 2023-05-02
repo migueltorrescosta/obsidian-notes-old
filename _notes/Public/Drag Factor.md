@@ -1,4 +1,7 @@
-#physics 
+---
+tags: physics
+---
+
 # Sources 
 - [Wikipedia](https://en.wikipedia.org/wiki/Drag_(physics))
 - [Drag Force measured for F1](https://www.youtube.com/watch?v=7U6OxMIg5f0)

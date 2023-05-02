@@ -1,5 +1,6 @@
 ---
 tags: coding, productivity
+feed: show
 ---
 
 Description of how this Obsidian Blog / Note taker solution was built

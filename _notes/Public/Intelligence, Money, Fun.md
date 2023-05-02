@@ -1,4 +1,7 @@
-#short-story 
+---
+tags: short-story
+---
+
 *Text serendipitously found in the web*
 
 > I asked my dad if I have ever made him cry in front of me before, because I don't remember ever seeing him cry. He said, *"Once"*. He told me that when I was 3 years old, he laid out a pen, a dollar, and a toy of some sort in front of me. He wanted to see which one I would pick. I think that a lot of Chinese people do that... It represents what you'll value most when you grow up. Like the pen is intelligence, money, is well, money, and the toy is fun.

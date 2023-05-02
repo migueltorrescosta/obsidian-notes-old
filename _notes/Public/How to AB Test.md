@@ -1,3 +1,7 @@
+---
+tags: math, coding
+---
+
 # Sources
 - [Google's Multi Armed Bandit experiments](https://support.google.com/analytics/answer/2844870).  
 

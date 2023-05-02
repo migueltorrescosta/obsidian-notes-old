@@ -1,5 +1,6 @@
 ---
 tags: math
+feed: show
 ---
 
 We want to calculate the [[Drag Factor]] for a given object. By definition, we want to know the acceleration felt during a given time interval. In other words, how fast the speed changes. For this, we need to measure the change in speed, but we also need an extra measurement, which can be either time or distance travelled.

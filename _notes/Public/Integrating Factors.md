@@ -1,3 +1,7 @@
+---
+tags: math
+---
+
 Integrating factors allow us to solve equations of the form $y' + P(x)y = Q(x)$
 
 # Intuition

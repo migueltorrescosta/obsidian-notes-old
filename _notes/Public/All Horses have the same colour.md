@@ -1,7 +1,6 @@
 ---
-feed: show
 tags: math
-title: All Horses have the same colour
+feed: show
 ---
 
 We will apply [[Mathematical Induction]] to the following statement
