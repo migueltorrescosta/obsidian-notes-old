@@ -8,12 +8,13 @@ Starting from the [[Starting a New App]] template
 # Next Steps
 #next-steps 
 1. Setup Kotlin development environment
-	1. [Kotlin server](https://kotlinlang.org/docs/server-overview.html), probably with [Spring's generator](https://start.spring.io/)
-	2. [Kotlin for Android](https://developer.android.com/kotlin)
-	3. [Kotlin tutorial](https://developer.android.com/courses/android-basics-compose/course)
-	4. Look into [Kotlin auth](https://ktor.io/docs/authentication.html#supported)
-	5. [Learn Ktor](https://ktor.io/learn/)
-	6. 
+	1. [Kotlin Multiplatform tutorial](https://www.youtube.com/watch?v=2yd6rVJdICU)
+	2. [Kotlin server](https://kotlinlang.org/docs/server-overview.html), probably with [Spring's generator](https://start.spring.io/)
+	3. [Kotlin for Android](https://developer.android.com/kotlin)
+	4. [Kotlin tutorial](https://developer.android.com/courses/android-basics-compose/course)
+		1. [3 hour beginner course](https://www.youtube.com/watch?v=F9UC9DY-vIU)
+	5. Look into [Kotlin auth](https://ktor.io/docs/authentication.html#supported)
+	6. [Learn Ktor](https://ktor.io/learn/)
 
 # Job to be done
 
@@ -86,7 +87,7 @@ This fields exist in every table
 | last_review_datetime | datetime | The last time this card was reviewed |
 | * next_review_datetime | datetime | The next time this card should be shown to the user |
 
-## RevisionHistory
+## Revision
 | Column | Type | Description |
 | --- | --- | --- |
 | * user_card | UserCard FK | The user_card we are keeping the history of |

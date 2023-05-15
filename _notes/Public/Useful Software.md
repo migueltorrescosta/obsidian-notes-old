@@ -21,6 +21,7 @@
 | [deadlinkchecker](https://deadlinkchecker.com) | Navigates a website for deadlinks. Browser based. | N | N |
 | Datadog | Overview into cluster metrics. [DD's glossary](https://docs.datadoghq.com/tracing/glossary/) | N | N |
 | Dependabot | [Instructions](https://github.com/dependabot/dependabot-core#how-to-run-dependabot) | N | N |
+| [Great Expectations](https://greatexpectations.io/) | A platform to uphold data quality | Y | N |
 
 # Maths
 | Name | Comments | Linux | Android |

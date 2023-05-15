@@ -1,4 +1,4 @@
-#personal #organisation
+[[Checklist]] for whenever I go travelling
 
 # Documents
 
