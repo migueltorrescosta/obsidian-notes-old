@@ -1,3 +1,6 @@
+---
+tags: coding
+---
 For [[Web Development]], there are different places where websites have information store
 
 # Browser cache
