@@ -1,4 +1,4 @@
-An amazing [[Python]] tool that allows us to run tests isolated from an Internet connection
+An amazing [[Python]] tool that allows us to [[Test]]  locally and offline, i.e. with no Internet Connection
 
 # Problem
 Our current code makes HTTP calls to external services. Any flakiness with the external services translates to failed tests, even if our own code works as expected.

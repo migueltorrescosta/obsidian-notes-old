@@ -1,4 +1,7 @@
-#software #productivity #personal-productivity 
+---
+tags: coding, productivity
+---
+
 # Productivity
 | Name | Comments | Linux | Android |
 | ---- | ---- | ---- | ---- |
@@ -12,7 +15,7 @@
 | ---- | ---- | ---- | ---- |
 | [VS Code](https://code.visualstudio.com/) | IDE | Y | N |
 | [PyCharm](https://www.jetbrains.com/pycharm/) | IDE | Y | N |
-| [Postman](https://www.postman.com/) | API testing tool | Y | N |
+| [Postman](https://www.postman.com/) | API Testing tool | Y | N |
 | [Powerlevel10k](https://github.com/romkatv/powerlevel10k) | Improved Terminal | Y | N |
 | [Git](https://git-scm.com/) | Versioning Contol System | Y | N |
 | [Envoy](https://www.envoyproxy.io/) | Edge and Service Proxy | N/A | N/A |
@@ -22,6 +25,7 @@
 | Datadog | Overview into cluster metrics. [DD's glossary](https://docs.datadoghq.com/tracing/glossary/) | N | N |
 | Dependabot | [Instructions](https://github.com/dependabot/dependabot-core#how-to-run-dependabot) | N | N |
 | [Great Expectations](https://greatexpectations.io/) | A platform to uphold data quality | Y | N |
+| [1Password](https://1password.com/) | A credential management system | Y | Y |
 
 # Maths
 | Name | Comments | Linux | Android |

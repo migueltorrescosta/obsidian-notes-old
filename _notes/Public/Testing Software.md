@@ -1,4 +1,4 @@
-Guidelines
+Guidelines on how to [[Test]]
 - Keep tests grouped by what they test
 - Good Signal to Noise: Refactor away repeated code across tests
 - Mock any external calls: we are testing our code, not our external dependencies
