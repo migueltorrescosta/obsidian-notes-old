@@ -43,28 +43,28 @@ Anything you included in the PR unrelated to the problem and solution (usually v
 
 # Writing the code
 > Less code is better code
-- [ ] Do we have similar code elsewhere that we should use?
-- [ ] Does this code require new tests?
-- [ ] Is the code clear to someone who has never seen it?
-- [ ] Follow the [[Testing Software]] guidelines
+1.  Do we have similar code elsewhere that we should use?
+2. Does this code require new tests?
+3. Is the code clear to someone who has never seen it?
+4. Follow the [[Testing Software]] guidelines
 
 ## Preparing for PR Review
 
 > Every preventable rejected PR review is time wasted
 
-- [ ] All tests pass on `CI/CD`
-- [ ] Relevant new tests were added
-- [ ] Out-of-band tests & considerations were mentioned in the PR `Miscellaneous`
-- [ ] The right people were tagged for the PR Review
-- [ ] No unexpected `File changes` exist, after doing all of the above
+1. All tests pass on `CI/CD`
+2. Relevant new tests were added
+3. Out-of-band tests & considerations were mentioned in the PR `Miscellaneous`
+4. The right people were tagged for the PR Review
+5. No unexpected `File changes` exist, after doing all of the above
 
 ## PR Review
-- [ ] I start a review as a group, rather than a list of individual comments
-- [ ] I understand the motivation for the code changes
-- [ ] I am confident the new changes were tested
-- [ ] The code changes are consistent with the rest of our code
+1. I start a review as a group, rather than a list of individual comments
+2. I understand the motivation for the code changes
+3. I am confident the new changes were tested
+4. The code changes are consistent with the rest of our code
 
 ## PR Merge
-- [ ] No reviewer has status.
-- [ ] Everyone resolved the issues they raised ( Don't resolve someone else's comment )
-- [ ] Squash Merge ( even if you auto-merge )
+1. No reviewer has status.
+2. Everyone resolved the issues they raised ( Don't resolve someone else's comment )
+3. Squash Merge ( even if you auto-merge )
