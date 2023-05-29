@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: Notes
 permalink: /notes
 feedformat: card
 title: Digital Garden

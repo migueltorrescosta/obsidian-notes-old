@@ -1,8 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: Post
+layout: Notes
 permalink: /
-title: Jekyll Garden
+feedformat: card
+title: Digital Garden
 ---
+
+There are formatting issues with some of the notes, hopefully I will have those sorted soon :)

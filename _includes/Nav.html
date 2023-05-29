@@ -4,6 +4,17 @@
     <div class="navbar-brand">
       <a class="navbar-item" style="padding-left: 0;"; href="{{ site.baseurl }}/index.html">
           <h6> {{site.heading}}</h6></a>
+          <div class="navbar-end is-hidden-mobile" onclick="modeSwitcher()" >
+            <div class="navbar-item">
+              <div class="buttons">
+                <a class="button is-text">
+                  <span class="icon is-small">
+                    <img src="{{ '/assets/img/sun.svg' | relative_url }}" id="theme-toggle-img">
+                  </span>
+                </a>
+              </div>
+            </div>
+          </div> 
           <script src="{{ site.baseurl }}/assets/js/modeswitcher.js"></script>
           <script src="{{ site.baseurl }}/assets/js/Hamburger.js"></script>
       <div class="navbar-item navbar-dark-mode__mobile is-hidden-tablet" onclick="modeSwitcher()">
@@ -25,28 +36,17 @@
     <div id="navbarBasicExample" class="navbar-menu">
       <div class="navbar-start">
         <a href="{{'/notes' | relative_url}}" class="navbar-item">
-          Demo Feed
+          Search
         </a>
         <a href="https://github.com/migueltorrescosta/" target="_blank" class="navbar-item">
           Github
         </a>
-        <a href="https://jekyllrb.com/" target="_blank" class="navbar-item">
+        <!-- <a href="https://jekyllrb.com/" target="_blank" class="navbar-item">
           Jekyll
-        </a>
-        <a href="https://obsidian.md/"  target="_blank" class="navbar-item">
+        </a> -->
+        <!-- <a href="https://obsidian.md/"  target="_blank" class="navbar-item">
           Obsidian
-        </a>
-      </div>
-      <div class="navbar-end is-hidden-mobile" onclick="modeSwitcher()" >
-        <div class="navbar-item">
-          <div class="buttons">
-            <a class="button is-text">
-              <span class="icon is-small">
-                <img src="{{ '/assets/img/sun.svg' | relative_url }}" id="theme-toggle-img">
-              </span>
-            </a>
-          </div>
-        </div>
+        </a> -->
       </div>
     </div>
   </nav>

@@ -1,5 +1,5 @@
 ---
-layout: Post
+layout: Lists
 permalink: /lists
 title: List of Lists
 feedformat: row

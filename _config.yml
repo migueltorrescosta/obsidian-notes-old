@@ -27,7 +27,7 @@ baseurl: ""
 
 # Website Header, Description, Footer year and text. 
 # If you are deleting this, make sure you remove it from HTML files too 
-heading: Jekyll Garden # Change this 
+heading: Transcendent Salmiakki # Change this 
 content: Obsidian ready Jekyll Theme
 copyright:  
   year: © 2022
@@ -49,6 +49,7 @@ preferences:
     enabled: true
   backlinks:
     enabled: true
+
 # To enable a homepage, change the value to true and add content to _includes/Homepage.html
 # If enable : false, notes feed will be as homepage. 
   homepage: 
@@ -94,7 +95,7 @@ defaults:
       path: ""
       type: notes
     values:
-      layout: Post
+      layout: Notes
       content-type: notes
 
 
