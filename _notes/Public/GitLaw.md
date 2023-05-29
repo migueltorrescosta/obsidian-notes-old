@@ -2,6 +2,9 @@
 tags: coding, law, society
 ---
 
+# Links
+- [[Room for Growth]]
+
 # Sources
 - Abe Voelker's blog - [GitLaw: GitHub for Laws and Legal Documents - a Tourniquet for American Liberty](https://blog.abevoelker.com/gitlaw-github-for-laws-and-legal-documents-a-tourniquet-for-american-liberty/)
 - Being considered by the French Government - [forum.etalab.gouv.fr](https://forum.etalab.gouv.fr/t/gitlaw-using-version-control-software-to-build-laws-collaboratively/2622)

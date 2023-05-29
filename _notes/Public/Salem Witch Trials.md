@@ -2,7 +2,7 @@
 tags: short-story, education
 ---
 
-Found on the Web
+One of many [[Short Stories]] Found on the Web
 
 > One of my friends told me about a powerful lesson in her daughter's high-school class this winter. They're learning about the Salem Witch Trials, and their teacher told them they were going to play a game.
 >
