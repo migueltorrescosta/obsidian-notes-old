@@ -1,12 +1,20 @@
+---
+tags: education
+---
+
 This post is a reflection on the previous post [[Math's Ceiling]] based on our [Cognitive Breaking point](https://mathwithbaddrawings.com/2015/04/08/the-math-ceiling-wheres-your-cognitive-breaking-point/). I want to compare 2 examples on teaching. One can be called more academic, and the other less so.
 
 # So what are we learning?
+
 We are learning how to compute the maxima and minima of functions. And I will try to teach it in 2 different ways. My questions to you, the reader, are:
-* Which one would you rather learn?
-* Which one would you rather see taught in schools?
+
+- Which one would you rather learn?
+- Which one would you rather see taught in schools?
 
 ## Alternative 1
+
 This is how you compute the maxima and minima of a function $f:[a,b] \mapsto \mathbb{R}$, with $a,b \in \mathbb{R}$ :
+
 1. You calculate its derivative $g = f'$
 2. You get the zeros of $g = f'$
 3. We compare the values of $a$, $b$, and the zeros of $g$
@@ -45,6 +53,7 @@ We still need to figure out what are the maxima and what are the minima. Thinkin
 Hence we figured out how to calculate the maxima and minima of a function $f$ .
 
 # What's your point about the alternatives then?
+
 I will try to answer two questions about the above alternatives. First, which one would lead to better grades? Secondly, which one would be better for students development, however vague that might be?
 
 For ease of writing lets assume student A was exposed to alternative 1 and student B to alternative 2.

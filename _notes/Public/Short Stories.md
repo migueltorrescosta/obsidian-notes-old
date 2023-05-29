@@ -1,1 +1,5 @@
-I use this note to aggregate a list of Short stories I enjoy.
+---
+tags: stories
+---
+
+Linked to this note you'll find short stories I have enjoyed

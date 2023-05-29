@@ -1,4 +1,7 @@
-#checklist #how-to
+---
+tags: checklist
+---
+
 1. Identify the problem / pain to be addressed
 2. Measure the impact, positive & negative, of such a problem
 3. Identify the root cause

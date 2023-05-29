@@ -1,2 +1,5 @@
-#paradox
+---
+tags: paradox
+---
+
 This sentence is False 😄

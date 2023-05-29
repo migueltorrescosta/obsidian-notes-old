@@ -1,9 +1,13 @@
-#math
+---
+tags: math
+---
+
 I have written this page to add small shortcuts and insights in reasoning that can be useful.
 
 # Shortcuts
 
 ## Geometric mean is the (arithmetic) mean of magnitudes
+
 For a set of positive numbers $A = \\{ x_1, x_2, ... ,x_n \\}$ the arithmetic mean is defined as $\frac{1}{n} \sum {x_i}$ whereas the geometric mean is defined as $\sqrt[n]{ \prod x_i}$, resulting in:
 | $A$ | Arithmetic Mean | Geometric Mean |
 | --- | --- | --- |

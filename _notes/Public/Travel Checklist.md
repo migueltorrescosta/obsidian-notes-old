@@ -1,3 +1,7 @@
+---
+tags: checklist, travel
+---
+
 [[Checklist]] for whenever I go travelling
 
 # Documents

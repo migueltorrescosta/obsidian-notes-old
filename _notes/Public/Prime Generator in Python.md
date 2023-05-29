@@ -1,4 +1,6 @@
-#coding #math 
+---
+tags: coding, math
+---
 
 # Code
 

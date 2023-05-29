@@ -1,4 +1,6 @@
-#coding 
+---
+tags: coding
+---
 
 This weekend ( 21st November 2016 ) there was a 24h Hackathon which brought together people from many different countries: [OxfordHack](http://www.oxfordhack.com/). It was a rather unexpected event: Saturday I went to the Maths Institute to revise, but every room was taken by people coding. Completely unaware of what was going on, I saw a welcome stall and asked them what it was all about. Turns out some companies funded this hackathon for 24h, and they had an interesting list of activities scheduled (namely Werewolf or, as I prefer to call it, Mafia).
 

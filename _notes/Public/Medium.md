@@ -1,4 +1,6 @@
-#psychology 
+---
+tags: psychology
+---
 
 I've recently ( 4th April 2017 ) started spending hours daily on a single website: [Medium](https://medium.com) . I see it as a news website where anyone can publish stories, but due to Medium's underlying magic the post quality is awesome. Here are some posts you might enjoy:
 

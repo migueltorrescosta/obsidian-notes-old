@@ -1,4 +1,9 @@
+---
+tags: math, education
+---
+
 # Sources
+
 - [Post](https://mathwithbaddrawings.com/2015/04/08/the-math-ceiling-wheres-your-cognitive-breaking-point/) from [Math With Bad Drawings](https://mathwithbaddrawings.com). Read the original post if you wanna see really cool drawings.
 
 # Does each person have a math/cognitive ceiling?
@@ -11,6 +16,6 @@ And so it is with maths.
 
 When we are learning maths we are supposed to follow the rhythm of the class. When we fail to do so we take shortcuts in order to do as everyone else, prioritizing implementation over understanding. We might be able to differentiate equations to find maxima/minima, but that's useless unless we understand that the derivative is nothing but the slope of the curve at that point and as such the zeros of the derivative give us the maxima/minima. This is obvious to the half of the class that never took shortcuts in previous years and tried to understood everything. For the other half, they'll feel like they're just not capable of understanding the concepts involved, and going back to relearn the misunderstood concepts properly is a lot more work than learning them correctly the first time around. As Math With Bad Drawings said, a student who doesn't understand a topic is a student with an expiration date on what he'll be able to do.
 
-I'd like to make a final remark: it is easier to be an A* student for the entirety of your studies than to be a B or C student for the same time period. Every bit we don't understand now will just make it harder to keep going tomorrow. So put on the effort and climb up the ladder: never take a "You'll understand it once you do it enough times" for an answer: first understand it and them practice implementing it.
+I'd like to make a final remark: it is easier to be an A\* student for the entirety of your studies than to be a B or C student for the same time period. Every bit we don't understand now will just make it harder to keep going tomorrow. So put on the effort and climb up the ladder: never take a "You'll understand it once you do it enough times" for an answer: first understand it and them practice implementing it.
 
-*PS: I kind of feel really bad for taking the punchline "And so it is with maths" word by word from Math With Bad Drawings, but it is a brilliant punchline, I couldn't deprive people of that. I apologise to Math With Bad Drawings.*
+_PS: I kind of feel really bad for taking the punchline "And so it is with maths" word by word from Math With Bad Drawings, but it is a brilliant punchline, I couldn't deprive people of that. I apologise to Math With Bad Drawings._

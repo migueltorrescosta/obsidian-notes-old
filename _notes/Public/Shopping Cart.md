@@ -1,4 +1,7 @@
-#short-story 
+---
+tags: short-story
+---
+
 Found on the web
 
 > The shopping cart is the ultimate litmus test for whether a person is capable of self-governing.

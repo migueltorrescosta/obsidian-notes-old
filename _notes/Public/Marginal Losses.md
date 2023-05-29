@@ -1,4 +1,6 @@
-#society 
+---
+tags: society, math
+---
 
 The paragraph below from [this article](https://www.vox.com/energy-and-environment/2017/6/15/15796202/map-carbon-pricing-across-the-globe) is insightful:
 

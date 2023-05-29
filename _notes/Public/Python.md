@@ -1,1 +1,5 @@
-Coolest language :D 
+---
+tags: coding
+---
+
+Coolest language :D

@@ -1,4 +1,8 @@
-The .gitconfig file I usually focus on 
+---
+tags: coding
+---
+
+The .gitconfig file I usually focus on
 
 ```sh
 [user]
@@ -23,6 +27,5 @@ The .gitconfig file I usually focus on
 ```
 
 # Links
+
 - [[Optimized Software Development]]
-
-

@@ -1,5 +1,8 @@
-#society #morality 
-*Disclaimer: Adapted excerpt from [[Dan Ariely]]'s [[Predictably Irrational]]*
+---
+tags: society, morality
+---
+
+_Disclaimer: Adapted excerpt from [[Dan Ariely]]'s [[Predictably Irrational]]_
 
 This thought experiment offers an interesting example [[The Tragedy of the Commons]]. Imagine that I offer you and three other people £10 each, which is yours to keep. But I also give you an opportunity to make more money. You can put as much of your £10 as you want in the "group pot". Once all the players have privately decided how much of their money to put in the group pot, all the money doubles and then is split evenly among the four participants, regardless of how much money each individual contributed. How much of your £10 would you put into the group pot? If all four of you put in £10, the group pot would double from §40 to £80, be divided four ways, and each of you would take away a nice £20.
 
@@ -12,4 +15,5 @@ Now, your trust has been eroded. You play a few more games, but you don't put in
 Viewed this way, the Public Goods Game illustrates how we, as a society, share the public good of trust. When we all cooperate, trust is high and the total value to society is maximal. But distrust is infectious. When we see people defect by lying in their ads, proposing scams, etc., we start acting similarly: trust deteriorates, and everybody loses, including the individuals who initially gained from their selfish acts.
 
 # Further "reading"
+
 See [[Nicky Case]]'s [The Evolution of Trust](https://ncase.me/trust/) for a memorable visualization of this concept.

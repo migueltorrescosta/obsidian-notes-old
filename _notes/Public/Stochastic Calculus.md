@@ -1,4 +1,6 @@
-#math 
+---
+tags: math
+---
 
 Branch of Maths dealing with [stochastic processes](https://en.wikipedia.org/wiki/Stochastic_calculus)
 

@@ -1,4 +1,7 @@
-#idea #tournment
+---
+tags: coding, math, challenge
+---
+
 #next-steps Build the [[Jupyter Notebook]] to do this.
 
 # Goal

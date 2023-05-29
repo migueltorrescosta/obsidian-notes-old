@@ -1,4 +1,6 @@
-#society #media
+---
+tags: society
+---
 
 - Someone might have a million GBP in the bank.
 - There are over 7 billion people in the world.
@@ -7,9 +9,11 @@
 What do all these numbers have in common? They are big. When reading about them, that is the only similarity. A million dollar company is worlds apart from a billion dollar company. Unfortunately during conversations, a million, a billion and a trillion all sound the same.
 
 ## What can be done?
+
 There is a way around this problem. We have well-developed intuitions about smaller numbers since they appear frequently in our life. Hence, we can convert the giant numbers above to smaller numbers by thinking of magnitudes, or even simpler, how many digits the number has, i.e. we use Scientific Notation by default.
 
 ## And what do I do with that?
+
 Now that we have numbers written in magnitudes, we can easily compare them. For example, if our unit is euros, we can consider which items are in a given magnitude:
 
 1. Cost of a meal, public transportation ticket
@@ -31,6 +35,7 @@ Every time we see a new number, we can think about where it lies in this magnitu
 Can you build a detailed magnitude list for yourself?
 
 # A Clever way to estimate with large numbers
+
 This [Ted-Ed Video](https://www.youtube.com/watch?v=0YzvupOX8Is) shows this concept in action. Enjoy!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0YzvupOX8Is" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

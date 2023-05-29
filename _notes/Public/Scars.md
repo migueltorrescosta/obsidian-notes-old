@@ -1,3 +1,7 @@
+---
+tags: short-story
+---
+
 I found this lying around [Reddit](https://www.reddit.com/r/WritingPrompts/comments/5kxe94/wp_you_live_in_a_world_where_each_lie_creates_a/) and it became one of my favorite [[Short Stories]].
 
 This story happens in a world where each lie creates a scar on the liar's body. The bigger the lie, the deeper and larger the mark. One day, you meet someone that only has one scar; it is the biggest one you have ever seen.
@@ -31,12 +35,12 @@ This story happens in a world where each lie creates a scar on the liar's body. 
 >
 > We all stopped, eyes wide and watching that kid fall down real slow. First standing, staring with his hand pulling away- not even scared, just shocked. Red, like deep crimson soaking and spreading, he dropped down to his knees. Still, he wasn't even there yet, it hadn't quite processed.
 >
-> That's when Joe caught him- and all the shouting erupted. The pandemonium, the first real training turned to action kicking in. Cries for *"Medic!"* and *"KIT! Get the kit!"* as people ran for the directions they thought mattered.
+> That's when Joe caught him- and all the shouting erupted. The pandemonium, the first real training turned to action kicking in. Cries for _"Medic!"_ and _"KIT! Get the kit!"_ as people ran for the directions they thought mattered.
 >
 > I was close enough to know that wasn't going to make a difference. Center of mass was what we trained for, the reason was straight and forward: Shoot to kill. Eliminate the target and move on.
 >
 > So I sat there, weapon heavy in my hands as I watched Joe hold this kid, blood pouring out into the dirt like a faucet, and I listened to him repeat the words that cut deep. Over, and over, and over again.
 >
-> *"Hang on, look at me. You're gonna be alright."*
+> _"Hang on, look at me. You're gonna be alright."_
 >
-> *"You're gonna be alright."*
+> _"You're gonna be alright."_
