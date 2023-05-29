@@ -19,7 +19,7 @@ This section summarizes the formulas we should use when given different data.
 - The Distance based approach includes speeds and distance measurements.
 
 ## Time Based Approach
-Given the set of observations $\left\{ ( S_i, F_i, T_i ), i \in I_N \right\}$ where $I_N = \left \{ 1,2,... N \right \}$, the acceleration is best approximated by $$a = \frac{\sum_i \left ( F_i - S_i \right ) ^2}{\sum_i \left ( F_i - S_i \right ) T_i}$$
+Given the set of observations $\{ ( S_i, F_i, T_i ), i \in I_N \}$ where $I_N = \{ 1,2,... N \}$, the acceleration is best approximated by $$a = \frac{\sum_i \left ( F_i - S_i \right ) ^2}{\sum_i \left ( F_i - S_i \right ) T_i}$$
 # Model
 We take a set of sample measurements formed by the triplets $( S_i , F_i , T_i )$. Our measurements are not perfect, so we will need to model our uncertainty. We use the hidden variables $( S'_i , F'_i , T'_i )$  as the true values of these measurements, with
 $$
@@ -32,8 +32,8 @@ $$
 with $\mathcal{N}$ being the [[Normal Distribution]] .
 
 With this model we can apply the [[Maximum Likelihood Estimation]] framework with
-- ( $\theta$ ) Model parameters: $a$, $\alpha$, $\beta$, $\lambda$, $S^i_i$ , $F^i_i$ , $T^i_i$ , $i \in \left\{ 1, 2, ..., N \right\}$
-- ( $y$ ) Observations $S_i$ , $F_i$ , $T_i$ , $i \in \left\{ 1, 2, ..., N \right\}$
+- ( $\theta$ ) Model parameters: $a$, $\alpha$, $\beta$, $\lambda$, $S^i_i$ , $F^i_i$ , $T^i_i$ , $i \in \{ 1, 2, ..., N \}$
+- ( $y$ ) Observations $S_i$ , $F_i$ , $T_i$ , $i \in \{ 1, 2, ..., N \}$
 
 In order to relate these three metrics we will use the formula $a = t \times \Delta v$, relating acceleration to the delta in speed and time. Under constant acceleration, we get the constraint $a T'_i =  \left ( F'_i - S'_i  \right )$. Notice that this relate the hidden variables and not the error-prone observations.
 
