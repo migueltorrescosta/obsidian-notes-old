@@ -53,9 +53,9 @@ Taking derivatives with respect to our parameters in $\theta$, we get our system
 ### Derivatives with respect to $S'_i$, $F'_i$ , $T'_i$
 $$
 \begin{align}
-0 = \frac{\partial}{\partial S'_i }L = \left ( \frac{S'_i- S_i}{\alpha^2} \right ) - \lambda_i & \Rightarrow S'_i = S_i + \lambda_i \alpha^2 \\
-0 = \frac{\partial}{\partial F'_i }L = \left ( \frac{F'_i- F_i}{\beta^2} \right ) + \lambda_i & \Rightarrow F'_i = F_i - \lambda_i \beta^2 \\
-0 = \frac{\partial}{\partial T'_i }L = \left ( \frac{T'_i- T_i}{\lambda^2} \right ) - a\lambda_i & \Rightarrow T'_i = T_i + a\lambda_i \lambda^2
+0 & = & \frac{\partial}{\partial S'_i }L & = & \left ( \frac{S'_i- S_i}{\alpha^2} \right ) - \lambda_i & \Rightarrow & S'_i & = & S_i + \lambda_i \alpha^2 \\
+0 & = & \frac{\partial}{\partial F'_i }L & = & \left ( \frac{F'_i- F_i}{\beta^2} \right ) + \lambda_i & \Rightarrow & F'_i & = & F_i - \lambda_i \beta^2 \\
+0 & = & \frac{\partial}{\partial T'_i }L & = & \left ( \frac{T'_i- T_i}{\lambda^2} \right ) - a\lambda_i & \Rightarrow & T'_i & = & T_i + a\lambda_i \lambda^2
 \end{align}
 $$
 
@@ -93,6 +93,7 @@ $0=\frac{\partial}{\partial \alpha}L = \sum_i T'_i\lambda_i$
 
 ### Solving the system of equations
 Gathering all of the equations above we get
+
 | From | Constraint |
 | --- | --- |
 | $S'_i$ | $\forall i : S'_i = S_i + \lambda_i \alpha^2$ |
@@ -105,6 +106,7 @@ Gathering all of the equations above we get
 | $a$ | $0 = \sum_i T'_i\lambda_i$ |
 
 Substituting the values of $S'_i$, $F'_i$ and $T'_i$ from the 1st three equations on all others we can get rid of these hidden variables, ending up with the simpler system
+
 | From | Constraint | Substitution |
 | --- | --- | --- |
 | $\alpha$ | $\alpha^2 = \frac{1}{N} \sum_i \left ( \lambda_i \alpha^2 \right )^2$ | $S'_i = S_i + \lambda_i \alpha^2$ |
