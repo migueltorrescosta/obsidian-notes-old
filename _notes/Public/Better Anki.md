@@ -59,6 +59,7 @@ Description of how we expect our users to interact with the platform
 
 ### Common
 This fields exist in every table
+
 | Column | Type | Description |
 | --- | --- | --- |
 | last_updated_at | datetime | When this row was last updated |
@@ -66,12 +67,14 @@ This fields exist in every table
 
 
 ### User
+
 | Column | Type | Description |
 | --- | --- | --- |
 | name | str | name |
 | ¬email | str | email |
 
 ### Card
+
 | Column | Type | Description |
 | --- | --- | --- |
 | front | str | What is shown to the user during reviews |
@@ -80,6 +83,7 @@ This fields exist in every table
 | median_time | int | median review time among all users reviewing this card, in miliseconds |
 
 ### UserCard
+
 | Column | Type | Description |
 | --- | --- | --- |
 | * card | Card FK | The card |
@@ -88,6 +92,7 @@ This fields exist in every table
 | * next_review_datetime | datetime | The next time this card should be shown to the user |
 
 ## Revision
+
 | Column | Type | Description |
 | --- | --- | --- |
 | * user_card | UserCard FK | The user_card we are keeping the history of |
@@ -95,6 +100,7 @@ This fields exist in every table
 | remembered | boolean | `True` if the user remembered the card, `False` otherwise |
 
 ### CardTag
+
 | Column | Type | Description |
 | --- | --- | --- |
 | * card | Card FK | The card |

@@ -21,6 +21,7 @@ Why did we choose $15$ as more likely than any other number? We must have argued
 The misstep is in assuming that there is a unique value that maximizes the number of heads and tails. As a sanity check, replace $30$ by an odd number, and you immediately see that the equation $N_T = N_H = \frac{N}{2}$ can't be correct. Even if we use an even number, replace the [[Binomial Distribution]] by a symmetric [[Beta Distribution]] with parameters such that most of the probability mass is at the extremes, and this reasoning fails.
 
 As a simpler example, say we have the discrete distribution
+
 | $x$ | 0 | 1 | 2 | 3 | 4 |
 | --- | --- | --- | --- | --- | --- |
 | $\mathbb{P} [ x ]$ | $30$% |$15$% | $10$% | $15$% | $30$% |
