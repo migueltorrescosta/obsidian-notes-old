@@ -8,7 +8,7 @@ We will apply [[Mathematical Induction]] to the following statement
 > All horses have the same colour pattern
 
 # Induction Hypothesis
-Any set of $n$ horses $\left \{ h_1, h_2,... h_n \right \}$ have the same colour pattern.
+Any set of $n$ horses $\{ h_1, h_2,... h_n \}$ have the same colour pattern.
 
 # Base case
 For $n=1$ we have a single horse, so there can be only one colour pattern.
