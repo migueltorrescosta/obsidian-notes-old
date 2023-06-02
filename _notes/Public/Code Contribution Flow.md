@@ -59,12 +59,15 @@ Anything you included in the PR unrelated to the problem and solution (usually v
 5. No unexpected `File changes` exist, after doing all of the above
 
 ## PR Review
-1. I start a review as a group, rather than a list of individual comments
-2. I understand the motivation for the code changes
-3. I am confident the new changes were tested
+1. Start a review as a group, rather than a list of individual comments
+2. Understand the motivation for the code changes
+3. The changes were tested with either
+	1. Tests in the code, with coverage visible
+	2. Manually, with what tests and how they were conducted on the PR description
 4. The code changes are consistent with the rest of our code
 
 ## PR Merge
-1. No reviewer has status.
-2. Everyone resolved the issues they raised ( Don't resolve someone else's comment )
+1. No reviewer has requested changes.
+2. Everyone resolved the issues they raised. Only the person raising issues can close it.
 3. Squash Merge ( even if you auto-merge )
+4. Only the author of the PR can merge it.
