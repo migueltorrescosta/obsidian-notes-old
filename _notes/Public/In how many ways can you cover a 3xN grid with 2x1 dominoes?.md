@@ -1,5 +1,6 @@
 ---
 tags: math
+feed: show
 ---
 
 Interesting problems tend to follow a pattern of being very easy to state, and hard to solve. I am sharing one as an example. Do try to solve it before reading through the solution. Enjoy!

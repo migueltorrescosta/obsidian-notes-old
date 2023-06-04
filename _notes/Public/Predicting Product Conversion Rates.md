@@ -1,15 +1,14 @@
 ---
 tags: math, coding
+feed: show
 ---
 
 # Given the past success of a product, how can we try to predict its future success?
-
 It seems like a harmless question and not too hard. A product which sold 20% of the times it was shown to a costumer has a 20% chance of being bought if we show it to the next costumer, right?
 
 Well, not exactly. In the above example we are using the formula $\frac{S}{V}$, where $S$ is the number of Sales and $V$ the number of times a product was shown (i.e. visits). If a product has no sales yet, it is a bit unfair to say that it has zero chances of being bought.
 
 # So how would you solve that problem?
-
 We will follow the steps below:
 
 1. Let $X$ be a random variable representing the 'true' probability of a product converting. I'm using true as an intrinsic property of the product. We can also view it as the conversion rate of the product as the number of visits goes to infinity.
@@ -25,31 +24,25 @@ All of the steps above are the same as the ones on the previous post on [[How to
 Hence for a product with $V$ visits and $N$ observations we should expect future clients to buy the product with probability $\frac{S+1}{N+2}$.
 
 # Cool, we are done then.
-
 Not yet. Depending on the market / platform where you are selling products, you might have very different conversion rates. Usually they are fairly below $50$%. Lets assume for a second that all products we are selling average to a conversion rate of $10$%. When a new product comes ($S = 0$ and $N = 0$) then we would predict a future conversion rate of $50$%, but intuitively a prediction of $10$% should be better.
 
 # Yes, that is a problem. How do you fix that?
-
 If we look back at step 2 above we have made subtle assumption: we assumed that we have no prior information about our hidden random variable $X$. If we know nothing about the product, then we are indirectly assuming that $X$ is uniform on $[ 0,1 ]$ until we get new information. If you are wondering why assuming no knowledge about $X$ leads us to assuming $X$ is uniform on $[ 0,1 ]$, the reason is that the best measure of our knowledge about a system is [[Entropy]] and the [[Uniform Distribution]] maximizes [[Entropy]]. If you want to learn more about this I would recommend reading through [[Claude Shannon]]'s A Mathematical Theory of Communication. In the meantime I will go back to the question at hand.
 
 We assumed we had no knowledge about $X$ when we fact we do. As such we can make use of [[Bayesian Updates]].
 
 # How do we do that?
-
 We will use [Bayes' Theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem), $\mathbb{P}(A|B) = \frac{\mathbb{P}(B|A)}{\mathbb{P}(B)}\mathbb{P}(A)$. In other words the probability of $A$ being true is updated after observation $B$ by the factor $\frac{\mathbb{P}(B|A)}{\mathbb{P}(B)}$. That formula works well for discrete cases, but for continuous cases we get a slightly different formula:
 
 If $f(\theta)$ is our distribution as above and $g(\theta)$ our initial knowledge of the distribution, then our updated knowledge is given by $f(\theta)g(\theta)$ normalized, since a pdf must always integrate to 1. In a no knowledge situation we get $g \equiv 1$ so $f(\theta)g(\theta) = f(\theta)*1 = f(\theta)$ as we concluded before. However in our case we have the knowledge that the average product sells $10$% of the time.
 
 # How do we translate that into the function $g$ ?
-
 We will have to use our historic data. Assuming we have sold enough different products, then each product has its own conversion rate. As such the set of all our products has its own distribution. If we were to pick one product at random from our inventory then we would be taking a product with conversion rate modeled by that distribution. Hence we can think of adding a new product similar to taking the conversion rate from a product in our inventory. As such we have $g$ and $f$.
 
-# So we just multiply the 2 distributions, normalize and we are done?
-
+# So we just multiply the 2 distributions, normalise and we are done?
 That will certainly give us an estimation way better than our initial estimate. However there is one computational problem. Since our inventory might be big, $g$ will probably be defined by a big array and multiplying it by $f$ and then computing $\mathbb{E}[f(\theta)g(\theta)]$ might be computationally expensive.
 
 # Can we simplify it?
-
 There is one trick that might work, depending on our product distribution. We can try to model our initial distribution $g$ as a beta distribution. We are getting now exact with our calculations so, depending on the sales data, this might work or not. If it works then we approximate $g$ with a beta distribution with $S_o$ sales and $N_o$ non sales. Then (setting $x = \theta$ for easier typing we get
 
 $$

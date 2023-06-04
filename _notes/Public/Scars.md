@@ -1,5 +1,6 @@
 ---
 tags: short-story
+feed: show
 ---
 
 I found this lying around [Reddit](https://www.reddit.com/r/WritingPrompts/comments/5kxe94/wp_you_live_in_a_world_where_each_lie_creates_a/) and it became one of my favorite [[Short Stories]].

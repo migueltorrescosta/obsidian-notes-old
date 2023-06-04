@@ -10,7 +10,8 @@ Statistical Hypothesis test to determine whether one time series is useful for p
 # Definition
 A sequence $X$ is said to Grager-cause a sequence $Y$ if
 - $\mathbb {P} [Y(t+1)\in A\mid {\mathcal {I}}(t)]\neq \mathbb {P} [Y(t+1)\in A\mid {\mathcal {I}}_{-X}(t)]$ 
-where
+
+## Notation
 - $\mathbb{P}$ denotes the probability of an event
 - $X$, $Y$ are the 2 sequences
 - $t$ denotes time

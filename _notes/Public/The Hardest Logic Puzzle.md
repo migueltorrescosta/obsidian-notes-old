@@ -24,6 +24,7 @@ So our $3$ questions need to be able to distinguish $6$ different possibilities.
 We can't distinguish the words for yes and no. Doesn't that reduce the answers we are able to distinguish in half, since if we swap all of the da's and ja's we would get the same information?
 
 Not exactly. We are told what are the words for yes and no. Even though we don't know which is which, we can use that information to get a yes/no answer even without knowing which is the word for yes and the word for no. As an example, suppose that I am asking whether the number $2$ is prime. Then I could ask: _"If I ask is the number $2$ prime and whether da mean no, would you give the same answer to both questions?"_. Looking at the True/False gods and the possibilities da=yes / da=no, we get that their answers will be:
+
 | | True God, da=yes | True God, da=no | False God, da=yes | False God, da=yes |
 | --- | --- | --- | --- | --- |
 | Is the number $2$ prime? | da (yes) | ja (yes) | ja (no) | da (no) |

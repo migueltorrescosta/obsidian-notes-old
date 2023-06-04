@@ -1,5 +1,6 @@
 ---
 tags: math, education
+feed: show
 ---
 
 # Sources

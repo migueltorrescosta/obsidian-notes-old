@@ -4,8 +4,6 @@ tags: idea, society
 
 Starting from the [[Starting a New App]] template
 
-#next-steps Go through WAcademy's WhatsApp message to set myself up.
-
 # Motivation
 
 Joshua Green describes Utilitarianism in [Moral Tribes](https://www.goodreads.com/book/show/17707599-moral-tribes) as a Pricing mechanism for different human values. We use monetary prices as a proxy to the value of different objects in society, based on Supply and Demand. We can use Supply and Demand to price Societal Change.
@@ -13,7 +11,6 @@ Joshua Green describes Utilitarianism in [Moral Tribes](https://www.goodreads.co
 # App flow
 
 ## Goal
-
 We want to compare the value add in different Universes:
 
 - A world with an UBI > 100$ per month vs a world with no UBI
@@ -26,7 +23,8 @@ To do this we will have users answer questions about the various changes so that
 
 ### Core Flow
 
-- Users will compare the value add of these changes and their likelihood. They will do it by getting a table such as:
+Users will compare the value add of these changes and their likelihood. They will do it by getting a table such as:
+
   | Universe $\alpha$ | Change | Universe $\beta$ |
   | ----------- | -------- | ----------- |
   | UBI > 100$ | 1 | UBI = 0$ |
@@ -61,6 +59,7 @@ $\alpha=\beta=1$
 
 Whenever a user submits a vote, they provide the information that $C_{likelihood} > A_{likelihood} \land C_{likelihood} > B_{likelihood}$ for some changes $A$, $B$ and $C$ .
 The result of this depends on details to be completed on the [[Beta Distribution]] note. Until that get's finished, we will update the values of $A$, $B$, $C$ to $A'$, $B'$, $C'$ via:
+
 | $X$ | Old $X_p$ | Old $X_n$ | New $X_p$ | Old $X_n$ |
 | --- | --- | --- | --- | --- |
 | $A$ | $A_p$ | $A_n$ | $A_p$ | $A_n + \frac{C_n}{C_p+C_n}$ |

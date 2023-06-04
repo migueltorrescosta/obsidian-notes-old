@@ -1,5 +1,6 @@
 ---
 tags: short-story
+feed: show
 ---
 
 *Text serendipitously found in the web*

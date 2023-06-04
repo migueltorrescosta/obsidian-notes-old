@@ -1,5 +1,6 @@
 ---
 tags: math
+feed: show
 ---
 
 **Supervisor: Cristina Cerqueira**

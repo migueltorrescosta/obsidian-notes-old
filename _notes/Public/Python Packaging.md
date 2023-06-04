@@ -20,7 +20,3 @@ Dependency Manager & virtual environment Manager for Python projects.
 
 ## pip-tools
 
-
-
-Write up the pros / cons of various deployment solutions
-

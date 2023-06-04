@@ -1,6 +1,6 @@
 ---
-feed: show
 tags: math
+feed: show
 ---
 
 [[Feynman]] is one of the greats. He assisted in the development of the atomic bomb, got a Nobel Prize in Physics, and was generally an impressive person. I have recently started reading Feynman's Lectures on Physics, and started taking notes of all the tiny little things that did not seem right.

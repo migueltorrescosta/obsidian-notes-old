@@ -1,5 +1,6 @@
 ---
 tags: book, society, morality
+feed: show
 ---
 
 This book makes a strong distinction between the [[Tragedy of the Commons]] and [[The Tragedy of Common Sense Morality]].

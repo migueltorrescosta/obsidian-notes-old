@@ -15,21 +15,16 @@ Guidelines on how to [[Test]]
 # Test Types
 
 ## Unit
-
 Test individual functionality
 
 ## Integration
-
 Test calls and joint usage of different services / components
 
 ## Load
-
 Measure how much load until you get 500s or failures.
 
 ## Performance
-
 Under a known specific load, measure how fast/slow the response times would be.
 
 ## Regression Testing
-
 They make sure that any changes to our codebase do not lead to code corruption or unexpected behavior changes.

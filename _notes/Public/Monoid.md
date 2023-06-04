@@ -13,4 +13,3 @@ Equivalent to a [[Semigroup]] with an identity element
 
 - $\left ( \mathbb{Z} , + \right )$ ( 0 is the identity )
 - $\left ( \mathbb{Z}^+ , \times \right )$ ( 1 is the identity )
--

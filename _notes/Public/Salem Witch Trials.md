@@ -1,5 +1,6 @@
 ---
 tags: short-story, education
+feed: show
 ---
 
 One of many [[Short Stories]] Found on the Web

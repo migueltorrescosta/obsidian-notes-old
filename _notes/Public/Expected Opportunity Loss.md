@@ -1,5 +1,6 @@
 ---
 tags: math
+feed: show
 ---
 
 [[Expected Opportunity Loss]] is a simple yet powerful way for [[Pricing Information]], first introduced to me in [[Douglas Hubbard]]’s book [[How To Measure Anything]].
@@ -21,3 +22,6 @@ The above is detached from reality, but instead of heads or tails suppose we are
 This can be done for any decisions made under uncertainty (as Douglas Hubbard argues in his book).
 
 I have built an implementation of this Information Pricing mechanism in Python, available [on Github](https://github.com/migueltorrescosta/tutor/blob/master/ExpectedOpportunityLoss.ipynb). You can also directly use [[Google Colab]] to [play with it in the browser](https://colab.research.google.com/github/migueltorrescosta/tutor/blob/master/ExpectedOpportunityLoss.ipynb)
+
+# Related
+- [[Google Colab]]

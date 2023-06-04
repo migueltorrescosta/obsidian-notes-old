@@ -2,12 +2,12 @@
 tags: coding
 ---
 
-The .gitconfig file I usually focus on
+My `.gitconfig` 
 
 ```sh
 [user]
-        email = miguelptcosta1995@gmail.com
-        name = migueltorrescosta
+        email = ***
+        name = ***
 [alias]
         s = status
         co = checkout
@@ -26,6 +26,6 @@ The .gitconfig file I usually focus on
 
 ```
 
-# Links
-
+# Related
 - [[Optimized Software Development]]
+- [[Code Contribution Flow]]

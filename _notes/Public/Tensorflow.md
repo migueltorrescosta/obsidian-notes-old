@@ -1,1 +1,1 @@
-Python Package optimized for Neural Network implementations
+Python Package optimised for Neural Network implementations

@@ -33,3 +33,6 @@ x() # 5
 x() # 7
 x.primes # [2,3,5,7] # Lists all primes seen so far
 ```
+
+# Related
+- [[Scripts for posterity]]

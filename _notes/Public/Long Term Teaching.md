@@ -1,5 +1,6 @@
 ---
 tags: education
+feed: show
 ---
 
 This post is a reflection on the previous post [[Math's Ceiling]] based on our [Cognitive Breaking point](https://mathwithbaddrawings.com/2015/04/08/the-math-ceiling-wheres-your-cognitive-breaking-point/). I want to compare 2 examples on teaching. One can be called more academic, and the other less so.

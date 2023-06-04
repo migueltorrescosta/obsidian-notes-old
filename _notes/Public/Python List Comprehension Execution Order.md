@@ -48,3 +48,6 @@ Check 4%2
 ```
 
 Confirming that the execution of the `print` / `heavy_async_calculation` is done as soon as the check passes
+
+# Related
+- [[Scripts for posterity]]

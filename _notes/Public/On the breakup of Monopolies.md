@@ -6,7 +6,7 @@ From a pure Survival of the fittest viewpoint, smaller interconnected companies 
 
 I believe there are 2 main reasons for this:
 
-1. [[Branding]] is powerful in selling new services: anything Google creates will be tried by a solid fanbase, however this does not apply to a [[Startup]] nobody heard of.
-2. Friction: negotiating prices between small companies creates friction, which does not exist when a company provides all the parts.
+1. [[Branding]] is powerful in selling new services: anything Google creates will be tried by a solid fan base, however this does not apply to a [[Startup]] nobody heard of.
+2. Pricing: negotiating prices between small companies creates friction, which does not exist when a company provides all the parts.
 
 Point 2 seems harder to address: pricing is a tough problem in any [[Illiquid Market]]. Point 1 could be solved though: could branding be provided to small companies? It feels like this is already, partially, being done by the likes of [[TechCrunch]] and VC companies

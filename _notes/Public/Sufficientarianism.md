@@ -1,5 +1,6 @@
 ---
 tags: society, morality
+feed: show
 ---
 
 # Sources
@@ -11,11 +12,13 @@ tags: society, morality
 Suppose a company has 2 employees Anne and John. The company values Anne's work 2 times more than John's work. As such the company is paying Anne £1400 and John £700. This can be seen as fair, one person having double the money to spend and be happy since they are contributing double of what others are contributing.
 
 However there is one problem: Both of them have survival costs, namely rent, food, eletricity and similar expenses. Assume that both Anne and John need £600 to survive. Subtracting survival costs, we get that Anne's spending money is £800, but John's is £100, like this:
+
 | | Anne | John | Ratio |
 | --- | --- | --- | --- |
 | Salary | £1400 | £700 | 2:1 |
 | Survival Money | £600 | £600 | 1:1 |
 | Spending Money | £800 | £100 | 8:1 |
+
 In practice Anne has 8 times the spending money John has. Those are 8 times more money spent on actually improving your life quality, having dinners with friends, buying books to read, doing hobbies they love.
 
 The core idea, shared on [medium](https://medium.com/@conradshaw/money-isnt-money-97722fe87025) by Conrad Shaw, is that each person has survival money and spending money. Survival money is needed to remain alive, spending money is used to be happy.
@@ -29,6 +32,7 @@ My claim is that a person's quality of life is not correctly dependent on their 
 Given the premises, we need to make sure Anne's spending money is double John's spending money. We have a total salary of £2100. Both Anne and John need £600 to survive, leaving us with £900 to distribute. Hence John should receive £300 (half) and Anne £600 (double).
 
 Then we would get the distribution:
+
 | | Anne| John| Ratio |
 | --- | --- | --- | --- |
 | Salary | £1200 | £900 | 4:3 |
@@ -85,6 +89,7 @@ If we assume that £400 is the needed survival money then we will need £224.000
 
 The Spending Money column is just a rescaling (by 94%) of the Initial Salary column. As such each person's initial salary and spending money can be seen as fair.
 Lastly (for those of you with higher salaries), there's an important column missing: The percentual change in salary:
+
 | Initial Salary | Adapted Salary | Percentual Change |
 | --- | --- | --- |
 | £0 | £400 | Infinity |
@@ -114,3 +119,6 @@ I have provided a single UBI funding idea, which I personally like but I am abso
 This amount varies between geographical locations and means available (if I have my own house I usually have to pay a smaller rent than if I had a landlord trying to profit). Finding the ideal amount for a country is not trivial.
 
 #next-steps Not as relevant but also important, I need to do the calculations above to actual income data and not just fictional values like the ones I created. I am curious to see what the impact would be in that case. If you read this before I have done that feel free to email me so that I do it.
+
+# Related
+- [[Room for Growth]]

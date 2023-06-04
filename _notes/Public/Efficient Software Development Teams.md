@@ -1,11 +1,11 @@
 ---
 tags: coding
+feed: show
 ---
 
-## Goal
-Optimize the business value add of a Software Team. This is not aimed at maximizing individual productivity.
+The goal is to optimise the business value add of a Software Team. This is distinct from maximising the productivity of individuals
 
-## Links
+# Links
 - [Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
 
 # Requirements

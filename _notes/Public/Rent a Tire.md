@@ -1,5 +1,6 @@
 ---
 tags: society
+feed: show
 ---
 
 For any of you who have a car, you might have had the experience of getting a tire blown and have to pay for it. This is not a big problem. The automobile industry needs to profit and you need a tire, so it seems like a win win situation. Unfortunately there is an incentive misalignment.
@@ -15,11 +16,9 @@ There are a few [companies selling tires under the Product as a Service framewor
 Lets not jump to conclusions too fast. We need to consider the incentives in case A (pay per tire) and case B (pay per kilometer)
 
 ## Case A
-
 Since we are paying per tire Michellin has no incentive to improve the quality of the tires. Clients have to be careful in their driving in order to avoid unneeded costs. By default costs associated with tire replacement are paid by the Client.
 
 ## Case B
-
 Since we are paying per mile it is in Michellin's best interest to minimize their cost per km driven, hence making better tires. By default costs associated with tire replacement are paid by Michellin. Michellin is also able to call clients for a tire change if their sensors raise any alarms. Clients do not need to worry as much about wearing out tires.
 
 # So you agree that Case B is best, right?

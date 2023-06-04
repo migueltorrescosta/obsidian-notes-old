@@ -1,5 +1,6 @@
 ---
-tags: short-story, sociery
+tags: short-story, society
+feed: show
 ---
 
 Excerpt found on the web

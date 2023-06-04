@@ -1,5 +1,6 @@
 ---
 tags: math, coding
+feed: show
 ---
 
 # Sources

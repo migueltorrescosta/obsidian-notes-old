@@ -1,5 +1,6 @@
 ---
 tags: society, morality
+feed: show
 ---
 
 _Disclaimer: Adapted excerpt from [[Dan Ariely]]'s [[Predictably Irrational]]_
@@ -17,3 +18,6 @@ Viewed this way, the Public Goods Game illustrates how we, as a society, share t
 # Further "reading"
 
 See [[Nicky Case]]'s [The Evolution of Trust](https://ncase.me/trust/) for a memorable visualization of this concept.
+
+# Related
+- See my [[Google Colab]] notebooks for a version of this game :) 

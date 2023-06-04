@@ -1,5 +1,6 @@
 ---
 tags: math
+feed: show
 ---
 
 Lets play Rock Paper Scissors. After each round the winner receives 3£<sup>1</sup> from the loser. However I have an handicap. I can never ever play Scissors. How much would you pay to play this game?

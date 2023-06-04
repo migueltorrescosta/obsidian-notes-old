@@ -1,5 +1,6 @@
 ---
 tags: productivity
+feed: show
 ---
 
 # KPIs
@@ -17,6 +18,7 @@ Lead measures are usually less aligned with what we care about, but provide us w
 # Examples
 
 In these examples, the Lagged Measures are what I care about, and the Lead Measures allow me to consistently build towards that goal, even if they don't perfectly reflect it.
+
 | Goal | Lagged Measure | Lead Measure |
 | --- | --- | --- |
 | Becoming healthier | Overall tiredness during the day | Quality of the food I am eating |

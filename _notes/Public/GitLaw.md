@@ -1,5 +1,6 @@
 ---
 tags: coding, law, society
+feed: show
 ---
 
 # Links

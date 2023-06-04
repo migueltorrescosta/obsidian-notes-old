@@ -12,6 +12,7 @@ tags: physics
 # Equation
 $$F_D = \frac{1}{2}C{\rho}Av^2$$
 where
+
 | Variable | Unit | Description |
 | --- | --- | --- | 
 | $F_D$ i.e. $D_{Force}$ | $kg \times ms^-2$ | Drag Force ( $\neq$ Drag Factor ) |

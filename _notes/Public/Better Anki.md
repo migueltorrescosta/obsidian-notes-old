@@ -6,7 +6,6 @@ feed: show
 Starting from the [[Starting a New App]] template
 
 # Next Steps
-#next-steps 
 1. Setup Kotlin development environment
 	1. [Kotlin Multiplatform tutorial](https://www.youtube.com/watch?v=2yd6rVJdICU)
 	2. [Kotlin server](https://kotlinlang.org/docs/server-overview.html), probably with [Spring's generator](https://start.spring.io/)

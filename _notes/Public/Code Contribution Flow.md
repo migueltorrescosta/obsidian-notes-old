@@ -1,5 +1,6 @@
 ---
 tags: checklist, productivity
+feed: show
 ---
 
 Never add any code without an Issue & PR: *"We want to move so fast that we end up being slower than needed"*

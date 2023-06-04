@@ -5,7 +5,6 @@ tags: checklist, travel
 [[Checklist]] for whenever I go travelling
 
 # Documents
-
 1. ATM Card
 2. Wallet
 3. Student Card
@@ -18,7 +17,6 @@ tags: checklist, travel
 10. Vaccination Card
 
 # Hygiene
-
 1. Shaving Cream
 2. AfterShave
 3. Perfume
@@ -32,7 +30,6 @@ tags: checklist, travel
 11. Plastic Bags
 
 # Electronics
-
 1. USB Sticks
 2. Plug Adapter ( EU/US/UK )
 3. Socket Extension

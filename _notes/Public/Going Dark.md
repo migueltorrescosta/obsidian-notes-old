@@ -1,5 +1,6 @@
 ---
 tags: society
+feed: show
 ---
 
 Going Dark means using [[Software]] that makes it harder for us to be traced online

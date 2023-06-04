@@ -1,7 +1,8 @@
 ---
 tags: life
 ---
-If I were to ever get a tattoo, these could be cool motifs around it
+
+If I were to get a tattoo, these could be cool motifs around it
 
 ## Places
 1. 上海 ( The bund, Shaolin temple)

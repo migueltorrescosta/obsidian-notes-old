@@ -1,5 +1,6 @@
 ---
 tags: math, coding
+feed: show
 ---
 
 The chapters below are an aggregation of thoughts around the theme of forecasting, not necessarily in a ready to present form, for a problem of joint decision making. We have society wide problems we need to agree on, such as which drugs should be illegal, which laws to pass, whether to implement an Universal Basic Income, and many other potentially controversial topics, and these topics are informed on forecasts that might turn out to be or not accurate.
@@ -9,13 +10,11 @@ The central question is
 > How can we aggregate multiple distinct forecasts into a single, more accurate, view.
 
 # Assumptions made
-
 - All future events can be assigned a likelihood of happening, between 0% and 100%
 - Due to different individual backgrounds and contexts, incompatible perspectives exist at the present time about the likelihood of many of these events.
 - The above can still be aggregated into a single "best" forecast using the correct system.
 
 # Event outcomes are not just true and false
-
 Before we start talking about perfect forecasting, we should understand what problems we would like to forecast. These could be statements such as:
 
 - Facebook will go bankrupt before 2050
@@ -60,6 +59,7 @@ Further, the probability of Quantum Computers being created before 2025 is $p$.
 - If we don'tninvest, the expected loss is given by $p(10) + (1-p)(0) = 10p$ million USD
 
 As such we should invest iff $p>\frac{1}{11}$, as can be seen by this table of Opportunity Losses in million EUR:
+
 | $p$ | $0$ | $\frac{1}{11}$ | $\frac{1}{2}$ | $1$ |
 |--------------------|------|------------------|----------------------|-------|
 | If we invest | $1€$ | $\frac{10}{11}$€ | $\frac{1}{2}$€ | $0$€ |
@@ -74,27 +74,21 @@ Note that this is a simplified example of a much more complex world: Not only do
 At this point the opportunity in this area consists in building a platform for anyone to submit statements of interest for themselves, and other users to submit forecasts. With this we can rank users according to their forecasting abilities, and use this metrics to build smart aggregate forecasts.
 
 ## Good Judgement Project
-
 Arguably [Good Judgement Project (gjp)](https://goodjudgment.com/) are the first to the field, with the findings from their results being detailed in the book [Superforecasting: The Art and Science of Prediction](https://www.goodreads.com/book/show/23995360-superforecasting?ac=1&from_search=true&qid=q7eXoBLCRh&rank=1). The biggest shortcoming from gjp is that they filter all their questions for forecasting, and as such it is harder for users to submit questions they find interesting.
 
 ## Foretold
-
 The backend and flexibility of inputs on [foretold](foretold.io) is impressive, however they lack an intuitive User Interface. As such the existing user base has stagnated.
 
 ## Metaculus
-
 With the biggest user base, [Metaculus](https://www.metaculus.com) has existed since 2015 and focuses on building questions with very well defined outcomes, covering many different [categories](https://www.metaculus.com/questions/categories/). Since their approval process for new questions is incredibly thorough, they've built a backlog of non yet accepted questions that only promises to grow.
 
 ## Augur
-
 Most of the forecasting platforms above have to conform to laws in their areas. [Augur](https://www.augur.net/) does not for the same reason that [Bitcoin](https://bitcoin.org) does not: They are decentralized peer 2 peer networks. Instead of focusing on forecasts, Augur creates pair of coins for each statement, which trade independently of each other. However, one coin is only worth anything if the statement is true, and the other coin follows the reverse. As such these coins are traded on the basis of expected values, and we can extract forecasts from the market based on this idea.
 
 Since no company controls Augur (similarly to how no company controls Bitcoin), then Augur does not need to worry about any issues with insider trading, assassination markets or other nefarious systems that arise if platforms are left unregulated.
 
 ## Forecastapp aka Facebook
-
 The latest entrant to the group, Facebook has launched [forecastapp](forecastapp.net/) to crowdsource forecasts. Given their dominance in the social network world this makes it easier for them to gather forecasters, however their existing page on forecasting is still very simple so in beta testing, meaning that it is still unclear how the platform will evolve.
 
 # The Future
-
 There's an opportunity here to improve this platform. Can you do it?

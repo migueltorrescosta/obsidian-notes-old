@@ -10,8 +10,9 @@ tags: health
 4. Being okay with doing nothing ( it avoids stressing )
 
 # Falling asleep
-1. Don't use artificial light in the 2 hours before bed
-2. Exercise then shower
+1. Sleep at consistent times
+2. Don't use artificial light in the 2 hours before bed
+3. Exercise => Shower => Bed
 
 # Miscellaneous
 1. Don't sleep in too long on weekends
@@ -21,7 +22,6 @@ tags: health
 # When ill
 See [[Medicine]]
 
-#health 
 # Links
 - [NHS Guidance](https://www.nhs.uk/live-well/eat-well/) 
 

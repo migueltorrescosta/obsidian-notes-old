@@ -2,11 +2,6 @@
 tags: society
 ---
 
-# Links
-
-- [[Guardian]]'s [article](https://www.theguardian.com/cities/2019/jun/03/its-a-miracle-helsinkis-radical-solution-to-homelessness): [[Helsinki]]'s radical solution to homelessness
-- [[Big Issue]]'s [article](https://www.theguardian.com/cities/2019/jun/03/its-a-miracle-helsinkis-radical-solution-to-homelessness): What can [[Finland]] teach us about [[Housing First]]?
-
 # Problem
 
 Homeless is a frequent problem across the world. It affects the homeless themselves, and the systems around it: The [UK estimates that the cost to homeless](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/7596/2200485.pdf) is between £24k and £30k per person. In London this represents close to £1 billion annualy.
@@ -27,3 +22,8 @@ In [[Juha Kaakinen]]'s words:
 > We decided to make the housing unconditional, to say, look, you don’t need to solve your problems before you get a home. Instead, a home should be the secure foundation that makes it easier to solve your problems.
 
 What do you think everyone should have access to?
+
+
+# Related
+- [[Guardian]]'s [article](https://www.theguardian.com/cities/2019/jun/03/its-a-miracle-helsinkis-radical-solution-to-homelessness): [[Helsinki]]'s radical solution to homelessness
+- [[Big Issue]]'s [article](https://www.theguardian.com/cities/2019/jun/03/its-a-miracle-helsinkis-radical-solution-to-homelessness): What can [[Finland]] teach us about [[Housing First]]?

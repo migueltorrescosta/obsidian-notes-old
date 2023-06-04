@@ -1,5 +1,6 @@
 ---
 tags: math
+feed: show
 ---
 
 Integrating factors allow us to solve equations of the form $y' + P(x)y = Q(x)$

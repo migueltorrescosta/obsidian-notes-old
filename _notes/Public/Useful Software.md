@@ -1,8 +1,10 @@
 ---
 tags: coding, productivity
+feed: show
 ---
 
 # Productivity
+
 | Name | Comments | Linux | Android |
 | ---- | ---- | ---- | ---- |
 | [Obsidian](https://obsidian.md/) | Note taking app | Y | Y |
@@ -11,6 +13,7 @@ tags: coding, productivity
 | [SimpleScan](https://manpages.ubuntu.com/manpages/bionic/man1/simple-scan.1.html) | Simple Scanning software with easy to use PDF edition capabilities | Y | N |
 
 # Work
+
 | Name | Comments | Linux | Android |
 | ---- | ---- | ---- | ---- |
 | [VS Code](https://code.visualstudio.com/) | IDE | Y | N |
@@ -28,6 +31,7 @@ tags: coding, productivity
 | [1Password](https://1password.com/) | A credential management system | Y | Y |
 
 # Maths
+
 | Name | Comments | Linux | Android |
 | ---- | ---- | ---- | ---- |
 | [Geogebra](https://www.geogebra.org) | Visualization tool for Geometrical Problems | Y | N |
@@ -36,6 +40,7 @@ tags: coding, productivity
 
 
 # Gaming
+
 | Name | Comments | Linux | Android |
 | ---- | ---- | ---- | ---- |
 | [Steam](https://store.steampowered.com) | Game Store | Y | Y |
@@ -45,12 +50,13 @@ tags: coding, productivity
 | [OBS](https://obsproject.com/) | Video streaming tool | Y | N |
 
 # Mobile
-#next-steps Find Arabic users in [[Tandem]]
+
 | Name | Comments | Linux | Android |
 | ---- | ---- | ---- | ---- |
 | [Tandem](https://www.tandem.net/) | anguage exchange app that connects language learners with native speakers | N | Y |
 
 # Miscellaneous
+
 | Name | Comments | Linux | Android |
 | ---- | ---- | ---- | ---- |
 | [Jekyll](https://jekyllrb.com/) | Static Website generator, used for my own blog, migueltorrescosta.github.io | Y | N |

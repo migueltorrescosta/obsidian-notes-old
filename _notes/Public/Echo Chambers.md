@@ -1,5 +1,6 @@
 ---
 tags: society
+feed: show
 ---
 
 A [[Social Network]] is meant to provide users with social updates, be it from friends or from the media. Given the information overload we can't afford to read everything, and as such platforms ([[Facebook]], [[Twitter]] and many others) choose what we should read on our behalf. They employ algorithms that try to find the articles we find will most likely enjoy. An honorable attempt to achieve the not so honorable goal of keeping us using their platform for as long as possible.

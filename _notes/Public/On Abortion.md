@@ -16,3 +16,5 @@ Sources need to be added, but my current belief is that a pro-life world ends in
 - Medical complications from improvised abortions worsens the burden on healthcare systems
 
 I'd be happy to be presented with points on the opposite direction
+
+
