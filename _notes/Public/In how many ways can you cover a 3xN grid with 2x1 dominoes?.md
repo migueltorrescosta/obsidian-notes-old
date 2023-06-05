@@ -88,148 +88,87 @@ C_n &= \sqrt{2}C'_n = \\
 $$
 
 The final step is to find the values of $r$, $s$, $t$ and $u$. For that we need to figure out basecases, namely:
+
+
 $$
-
 \left\{\begin{matrix}
-
 B_0 & = & 1\\
-
 C_0 & = & 0\\
-
 B_1 & = & 1\\
-
 C_1 & = & 3
-
 \end{matrix}\right.
-
 $$
 
 $$
-
 \left\{\begin{matrix}
-
 r+s+t+u & = & 1\\
-
 \sqrt{2} \left ( r+s-t-u \right ) & = & 0\\
-
 r \frac{1 + \sqrt{3}}{\sqrt{2}} + s \frac{1 - \sqrt{3}}{\sqrt{2}} + t \frac{-1 + \sqrt{3}}{\sqrt{2}} + u \frac{-1 - \sqrt{3}}{\sqrt{2}} & = & 1\\
-
 \sqrt{2} \left ( r \frac{1 + \sqrt{3}}{\sqrt{2}} + s \frac{1 - \sqrt{3}}{\sqrt{2}} - t \frac{-1 + \sqrt{3}}{\sqrt{2}} - u \frac{-1 - \sqrt{3}}{\sqrt{2}} \right ) & = & 3
-
 \end{matrix}\right.
-
 $$
 
 $$
-
 \left\{\begin{matrix}
-
 r+s & = & \frac{1}{2}\\
-
 t+u & = & \frac{1}{2}\\
-
 (r+s) \frac{1}{\sqrt{2}} + (r-s) \frac{\sqrt{3}}{\sqrt{2}} + (t+u) \frac{-1}{\sqrt{2}} + (t-u) \frac{\sqrt{3}}{\sqrt{2}} & = & 1\\
-
 (r+s) - (r-s) \sqrt{3} + (t+u) - (t-u) \sqrt{3} & = & 3\\
-
 \end{matrix}\right.
-
 $$
 
 $$
-
 \left\{\begin{matrix}
-
 r+s & = & \frac{1}{2}\\
-
 t+u & = & \frac{1}{2}\\
-
 \frac{1}{2} \frac{1}{\sqrt{2}} + (r-s) \frac{\sqrt{3}}{\sqrt{2}} + \frac{1}{2} \frac{-1}{\sqrt{2}} + (t-u) \frac{\sqrt{3}}{\sqrt{2}} & = & 1\\
-
 1 + ((r-s)-(t-u)) \sqrt{3} & = & 3\\
-
 \end{matrix}\right.
-
 $$
 
 $$
-
 \left\{\begin{matrix}
-
 r+s & = & \frac{1}{2}\\
-
 t+u & = & \frac{1}{2}\\
-
 (r-s) \frac{\sqrt{3}}{\sqrt{2}} + (t-u) \frac{\sqrt{3}}{\sqrt{2}} & = & 1\\
-
 ((r-s)-(t-u)) \sqrt{3} & = & 2\\
-
 \end{matrix}\right.
-
 $$
 
 $$
-
 \left\{\begin{matrix}
-
 r+s & = & \frac{1}{2}\\
-
 t+u & = & \frac{1}{2}\\
-
 (r-s) \frac{\sqrt{3}}{\sqrt{2}} + (t-u) \frac{\sqrt{3}}{\sqrt{2}} & = & 1\\
-
 (r-s)-(t-u) & = & \frac{2}{\sqrt{3}}\\
-
 \end{matrix}\right.
-
 $$
 
 $$
-
 \left\{\begin{matrix}
-
 r+s & = & \frac{1}{2}\\
-
 t+u & = & \frac{1}{2}\\
-
 (r-s) + (t-u) & = & \frac{\sqrt{2}}{\sqrt{3}}\\
-
 (r-s)-(t-u) & = & \frac{2}{\sqrt{3}}\\
-
 \end{matrix}\right.
-
 $$
 
 $$
-
 \left\{\begin{matrix}
-
 r+s & = & \frac{1}{2}\\
-
 t+u & = & \frac{1}{2}\\
-
 r-s & = & \frac{1}{\sqrt{6}} + \frac{1}{\sqrt{3}}\\
-
 t-u & = & \frac{1}{\sqrt{6}} - \frac{1}{\sqrt{3}}\\
-
 \end{matrix}\right.
-
 $$
 
 $$
-
 \left\{\begin{matrix}
-
 r & = & \frac{1}{4} + \frac{1}{2 \sqrt{6}} + \frac{1}{ 2 \sqrt{3}}\\
-
 s & = & \frac{1}{4} - \frac{1}{2 \sqrt{6}} - \frac{1}{ 2 \sqrt{3}}\\
-
 t & = & \frac{1}{4} + \frac{1}{2 \sqrt{6}} - \frac{1}{ 2 \sqrt{3}}\\
-
 u & = & \frac{1}{4} - \frac{1}{2 \sqrt{6}} + \frac{1}{ 2 \sqrt{3}}\\
-
 \end{matrix}\right.
-
 $$
 
 Assembling all of this together we get that $C_n$ equals the sum of the four terms
