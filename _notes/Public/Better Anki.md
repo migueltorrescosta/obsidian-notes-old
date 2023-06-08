@@ -52,6 +52,9 @@ Description of how we expect our users to interact with the platform
 	2. Answer: str
 	3. private: boolean ( defaults to false )
 
+## Feed
+Business need: create an easy mechanism for a user / group of users to send cards to other people ( prof to students, research group amongst themselves,... ). I.e., a Feed of cards 
+
 ## Database tables
 - A * next to the column name means that there is an index on this column.
 - A ¬ next to the column means that there is a uniqueness constraint on this column
