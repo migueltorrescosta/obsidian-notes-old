@@ -7,3 +7,6 @@ Studied micro expressions at length, using them for the creation of the series L
 # Links
 
 - https://www.paulekman.com/
+
+# Related
+- [[People of Interest]]
