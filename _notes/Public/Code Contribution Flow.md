@@ -44,14 +44,15 @@ Anything you included in the PR unrelated to the problem and solution (usually v
 
 # Writing the code
 > Less code is better code
-1.  Do we have similar code elsewhere that we should use?
+
+1. Do we have similar code elsewhere that we should use instead?
 2. Does this code require new tests?
 3. Is the code clear to someone who has never seen it?
 4. Follow the [[Testing Software]] guidelines
 
 ## Preparing for PR Review
 
-> Every preventable rejected PR review is time wasted
+> Preventing PR rejections ahead of time is a big time saver
 
 1. All tests pass on `CI/CD`
 2. Relevant new tests were added

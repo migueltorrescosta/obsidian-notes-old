@@ -56,57 +56,33 @@ Description of how we expect our users to interact with the platform
 Business need: create an easy mechanism for a user / group of users to send cards to other people ( prof to students, research group amongst themselves,... ). I.e., a Feed of cards 
 
 ## Database tables
-- A * next to the column name means that there is an index on this column.
-- A ¬ next to the column means that there is a uniqueness constraint on this column
 
-### Common
-This fields exist in every table
-
-| Column | Type | Description |
-| --- | --- | --- |
-| last_updated_at | datetime | When this row was last updated |
-| created_at | datetime | When this card was created |
-
-
-### User
-
-| Column | Type | Description |
-| --- | --- | --- |
-| name | str | name |
-| ¬email | str | email |
-
-### Card
-
-| Column | Type | Description |
-| --- | --- | --- |
-| front | str | What is shown to the user during reviews |
-| back | str | What the user is meant to recall after seeing the card's front |
-| * created_by | User FK | The user that created the card |
-| median_time | int | median review time among all users reviewing this card, in miliseconds |
-
-### UserCard
-
-| Column | Type | Description |
-| --- | --- | --- |
-| * card | Card FK | The card |
-| * user | User FK | The user |
-| last_review_datetime | datetime | The last time this card was reviewed |
-| * next_review_datetime | datetime | The next time this card should be shown to the user |
-
-## Revision
-
-| Column | Type | Description |
-| --- | --- | --- |
-| * user_card | UserCard FK | The user_card we are keeping the history of |
-| reviewed_at | datetime | The datetime at which this UserCard revision happened |
-| remembered | boolean | `True` if the user remembered the card, `False` otherwise |
-
-### CardTag
-
-| Column | Type | Description |
-| --- | --- | --- |
-| * card | Card FK | The card |
-| * tag | str | A tag belonging to this card | user |
+```mermaid
+erDiagram
+    USER {
+        string name
+        string email
+    }
+    CARD {
+        string front
+        string back
+        string created_by
+    }
+    USERCARD {
+        int user
+        int card
+        datetime last_review_datetime
+        datetime next_review_datetime
+    }
+    USERCARD ||--|{ USER : created-by
+    USERCARD ||--|{ CARD : relates-to
+    REVIEW {
+        int usercard
+        datetime timestamp
+        string result
+    }
+    REVIEW ||--|{ USERCARD : review-instance-of
+```
 
 # External Feedback
 
