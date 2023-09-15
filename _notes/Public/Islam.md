@@ -7,7 +7,7 @@ As I read the Koran, trying to find what leads one to convert or not, I focused 
 2. Misunderstanding the message being shared
 3. A core disagreement between the message of the Koran and my own core beliefs
 
-In an attempt to figure out the above, I list below the relevant passages. The passages are structured as 🔵 Chapter:Verse Passage, where the circle colour is, from big to small: 🔴 🟠 🟡 🟢
+In an attempt to figure out the above, I list below the relevant passages.
 
 # 🔴 Problematic
 
