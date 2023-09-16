@@ -1,3 +1,9 @@
+---
+tags:
+  - personal
+  - life
+---
+
 The key step to being a Muslim is the [Shahada](https://en.wikipedia.org/wiki/Shahada): the acceptance of Mohammed as the last prophet, and the Koran as the direct word of Allah. As such I was driven to read the Koran, to understand what is being accepted. Most passages so far have fallen under 2 group
 - Be kind to each other ( and what that means in practice )
 - The importance of being a believer
@@ -43,14 +49,6 @@ Menstruation is treated as being dirty?
 
 Pet peeve: I'm balding
 
-
-
-
-
-
-
-
-48:16
 # Areas for exploration
 
 # Creationism
